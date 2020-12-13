@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\bin\Debug\ScrapePop.exe.config
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\bin\Debug\ScrapePop.exe
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\bin\Debug\ScrapePop.pdb
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\bin\Debug\AngleSharp.dll
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\bin\Debug\AngleSharp.xml
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\obj\Debug\ScrapePop.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\obj\Debug\ScrapePop.Form1.resources
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\obj\Debug\ScrapePop.Properties.Resources.resources
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\obj\Debug\ScrapePop.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\obj\Debug\ScrapePop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\obj\Debug\ScrapePop.csproj.CopyComplete
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\obj\Debug\ScrapePop.exe
+C:\Users\Admin\source\repos\ScrapePop\ScrapePop\obj\Debug\ScrapePop.pdb
